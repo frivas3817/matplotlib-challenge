@@ -1,0 +1,7 @@
+1.The graph "Tumor Response to Treatment" shows that the drug Capomulin had a better result, the tumors volume for the mice taking Capomulin had the greastest shrinkage rate in the course of trial. Meanwhile for the mice taking the other drugs, had no notaable change in the tumors volume growth.
+
+2. The graph "Metastatic Spread During Treatment" shows that all tumors had equal metastatic spread regardless of the which drug they were being tested with. However the mice taking Capomulin had the slowest metastatic spread. Also the mice taking Ketapril had the fastest spread.
+
+3.The graph "Survival During Treatment" shows that over 80% of the mice taking Capomullin survived during the course of trial.
+
+In conclusion we can suggest that the drug Capomulin had the best effects thru this trial.
